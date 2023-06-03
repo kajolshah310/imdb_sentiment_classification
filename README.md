@@ -3,7 +3,7 @@
 ## Description
 This repository focuses on sentiment classification of IMDB movie reviews. The objective is to develop a model that can accurately classify the sentiment (positive or negative) of movie reviews.
 
-Sentiment analysis plays a crucial role in understanding public opinion and sentiment towards various products, services, or in this case, movies. By leveraging natural language processing (NLP) techniques and machine learning algorithms, we can analyze the text of movie reviews and predict whether the sentiment expressed is positive or negative.
+Sentiment analysis plays a crucial role in understanding public opinion and sentiment towards various products, services, or in this case, movies. By leveraging natural language processing (NLP) techniques and deep learning algorithms, we can analyze the text of movie reviews and predict whether the sentiment expressed is positive or negative.
 
 ## Dataset
 The dataset used for this project is the IMDB Movie Reviews dataset. It consists of a large number of movie reviews along with their corresponding sentiment labels. The dataset is widely used in sentiment analysis tasks and provides a diverse range of reviews, making it suitable for training and evaluating sentiment classification models.
@@ -11,7 +11,7 @@ The dataset used for this project is the IMDB Movie Reviews dataset. It consists
 ## Approach
 The project involves the following steps:
 1. Data preprocessing, including text cleaning, tokenization, and feature extraction.
-2. Implementation of various machine learning algorithms, such as Naive Bayes, logistic regression, or deep learning models like recurrent neural networks (RNNs) or transformers, for sentiment classification.
+2. Implementation of deep learning algorithms, such as Naive Bayes, logistic regression, or deep learning models like recurrent neural networks (RNNs) and LSTM for sentiment classification.
 3. Model training and evaluation using appropriate performance metrics to assess the accuracy and reliability of the predictions.
 
 ## Usage
