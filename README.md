@@ -28,6 +28,8 @@ git clone https://github.com/kajolshah310/imdb_sentiment_classification.git
 Feel free to modify the code, experiment with different algorithms or models, or explore additional techniques to improve the accuracy of the sentiment predictions.
 
 ## References
-TBD
+
+1) Dataset:- IMDB dataset from keras.datasets
+
 ## License
 This repository is licensed under the MIT License. Feel free to use the code and the models for your own projects or research.
